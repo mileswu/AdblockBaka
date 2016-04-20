@@ -1,0 +1,6 @@
+{
+	"appDesc": {
+		"message": "Very simple adblocker",
+		"description": "Uses Adblock Plus' Easylist general blocking list"
+	}
+}
