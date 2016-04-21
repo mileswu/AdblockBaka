@@ -18,11 +18,11 @@ Feel free to create an issue or a pull request on Github if you have comments, f
 
 ## Details
 This blocks all URL patterns that are listed in the [Easylist general block list](https://hg.adblockplus.org/easylist/file/tip/easylist/easylist_general_block.txt) which should block most ads (such as banner ads from ad networks).
-More advanced techniques like CSS injection/hiding etc. are not implemented, so more inline ads won't be blocked (an example would that sponsored search results on Google are not hidden as these are part of the page and not loaded as an external 'ad')
+More advanced techniques like CSS injection/hiding etc. are not implemented, so more inline ads won't be blocked (an example would that sponsored search results on Google are not hidden as these are part of the page and not loaded as an external 'ad').
 
 The `build.bat` is necessary to set the permissions on the extension.
 For some reason MS Edge expects certain permissions or it will refuse to load the extension.
 
 ## License
-The AdblockBaka extension itelf is licensed under the BSD License (see `LICENSE`)
-The blocking list used is from the [EasyList](https://easylist.github.io/) authors and licensed under [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
+The AdblockBaka extension itelf is licensed under the BSD License (see `LICENSE`).
+The blocking list used is from the [EasyList](https://easylist.github.io/) authors and licensed under [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/).
